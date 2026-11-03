@@ -1,0 +1,25 @@
+driverId,driverRef,number,code,forename,surname,dob,nationality,url
+norris,norris,1,NOR,Lando,Norris,1999-11-13,British,http://en.wikipedia.org/wiki/Lando_Norris
+max_verstappen,max_verstappen,3,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+russell,russell,63,RUS,George,Russell,1998-02-15,British,http://en.wikipedia.org/wiki/George_Russell_(racing_driver)
+antonelli,antonelli,12,ANT,Andrea Kimi,Antonelli,2006-08-25,Italian,https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli
+albon,albon,23,ALB,Alexander,Albon,1996-03-23,Thai,http://en.wikipedia.org/wiki/Alexander_Albon
+stroll,stroll,18,STR,Lance,Stroll,1998-10-29,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll
+hulkenberg,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+leclerc,leclerc,16,LEC,Charles,Leclerc,1997-10-16,Monegasque,http://en.wikipedia.org/wiki/Charles_Leclerc
+piastri,piastri,81,PIA,Oscar,Piastri,2001-04-06,Australian,http://en.wikipedia.org/wiki/Oscar_Piastri
+hamilton,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+gasly,gasly,10,GAS,Pierre,Gasly,1996-02-07,French,http://en.wikipedia.org/wiki/Pierre_Gasly
+tsunoda,tsunoda,22,TSU,Yuki,Tsunoda,2000-05-11,Japanese,http://en.wikipedia.org/wiki/Yuki_Tsunoda
+ocon,ocon,31,OCO,Esteban,Ocon,1996-09-17,French,http://en.wikipedia.org/wiki/Esteban_Ocon
+bearman,bearman,87,BEA,Oliver,Bearman,2005-05-08,British,http://en.wikipedia.org/wiki/Oliver_Bearman
+lawson,lawson,30,LAW,Liam,Lawson,2002-02-11,New Zealander,http://en.wikipedia.org/wiki/Liam_Lawson
+bortoleto,bortoleto,5,BOR,Gabriel,Bortoleto,2004-10-14,Brazilian,https://en.wikipedia.org/wiki/Gabriel_Bortoleto
+alonso,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+sainz,sainz,55,SAI,Carlos,Sainz,1994-09-01,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.
+doohan,doohan,7,DOO,Jack,Doohan,2003-01-20,Australian,http://en.wikipedia.org/wiki/Jack_Doohan
+hadjar,hadjar,6,HAD,Isack,Hadjar,2004-09-28,French,https://en.wikipedia.org/wiki/Isack_Hadjar
+colapinto,colapinto,43,COL,Franco,Colapinto,2003-05-27,Argentine,http://en.wikipedia.org/wiki/Franco_Colapinto
+arvid_lindblad,arvid_lindblad,41,LIN,Arvid,Lindblad,2007-08-08,British,https://en.wikipedia.org/wiki/Arvid_Lindblad
+perez,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+bottas,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
